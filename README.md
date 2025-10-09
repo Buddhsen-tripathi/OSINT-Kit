@@ -90,6 +90,8 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [TinEye](https://tineye.com/) - **(Freemium)** - Reverse image search engine for identifying image origins and duplicates.  
 - [Yandex Images](https://yandex.com/images/) - **(Free)** - Reverse image search tool with strong facial and contextual matching capabilities.  
 - [Forensically](https://29a.ch/photo-forensics/) - **(Free)** - Web-based tool to detect image manipulations and view metadata.
+- [FotoForensics](https://fotoforensics.com/) - Web tool for image forensic analysis and error level analysis
+- [SauceNAO](https://saucenao.com/) - Reverse image search for artwork and media
 
 ## Data Breach & Leak Search
 
