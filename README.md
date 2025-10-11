@@ -131,6 +131,12 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) - Screenshot and screen recording tool.
 - [Noteapp](https://noteapps.info/) - Encyclopedia of note-taking apps.
 
+## 🧠 Learning Resources
+- [The OSINT Framework](https://osintframework.com/) — Interactive map of categorized OSINT tools.  
+- [Bellingcat’s Online Investigation Toolkit](https://docs.google.com/document/d/1s8JY3J2C1A3dWzI0XEpXr0FmD4mXJLO7Wb8Zgkz4f38/edit) — Collection of tools used by investigative journalists.  
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) — Curated list of OSINT resources.  
+- [Trace Labs OSINT Community](https://www.tracelabs.org/) — OSINT for good: help locate missing persons.  
+
 ## Contributing
 
 We welcome contributions to the list of OSINT tools. If you would like to suggest a new tool or make improvements, please fork the repository, make your changes, and submit a pull request. Please ensure your contributions are in line with the purpose of the project: to provide a helpful collection of tools for OSINT enthusiasts.
