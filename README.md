@@ -120,6 +120,13 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Mit](https://pgp.mit.edu/) - PGP public key server.
 - [Ubuntu](https://keyserver.ubuntu.com/) - Hockeypuck OpenPGP keyserver.
 
+## OSINT APIs
+- **Pipl API** — People data API for identity verification.
+- **FullContact API** — Person and company enrichment.
+- **Clearbit API** — Enrich domains and emails with company data.
+- **SecurityTrails API** — DNS and IP intelligence.
+- **AbuseIPDB API** — Check IP addresses for malicious activity.
+
 ## Recording & Auditing
 
 - [AnyDesk](https://anydesk.com/en) - Remote access software for personal computers and mobile devices.
