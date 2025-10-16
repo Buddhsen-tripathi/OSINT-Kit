@@ -64,6 +64,7 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [ViewDNS](https://viewdns.info/) - Multi-purpose domain and DNS lookup tool
 - [Censys](https://search.censys.io/) - Search engine for internet-connected hosts and domains
 - [Netcraft](https://www.netcraft.com/) - Domain and phishing intelligence platform
+- [VirusTotal](https://www.virustotal.com/gui/home/search) - Domain intel with passive DNS and WHOIS.
 
 ## Miscellaneous
 
