@@ -40,6 +40,7 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Spiderfoot HX (SaaS)](https://login.hx.spiderfoot.net/signin?) — **(Paid)**
 - [Osintly](https://osint.ly/) — **(Free)**
 - [Sherlock](https://github.com/sherlock-project/sherlock) — **(Free)**
+- [Intelligence X](https://intelx.io/) — **(Freemium)**
 
 ## Location Tracking
 
