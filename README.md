@@ -41,6 +41,7 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Osintly](https://osint.ly/) — **(Free)**
 - [Sherlock](https://github.com/sherlock-project/sherlock) — **(Free)**
 - [Intelligence X](https://intelx.io/) — **(Freemium)**
+- [OCCRP Aleph](https://aleph.occrp.org/) — **(Free)**
 
 ## Location Tracking
 
