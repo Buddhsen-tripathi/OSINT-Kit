@@ -40,6 +40,8 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Spiderfoot HX (SaaS)](https://login.hx.spiderfoot.net/signin?) — **(Paid)**
 - [Osintly](https://osint.ly/) — **(Free)**
 - [Sherlock](https://github.com/sherlock-project/sherlock) — **(Free)**
+- [Intelligence X](https://intelx.io/) — **(Freemium)**
+- [OCCRP Aleph](https://aleph.occrp.org/) — **(Free)**
 
 ## Location Tracking
 
@@ -62,6 +64,7 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [ViewDNS](https://viewdns.info/) - Multi-purpose domain and DNS lookup tool
 - [Censys](https://search.censys.io/) - Search engine for internet-connected hosts and domains
 - [Netcraft](https://www.netcraft.com/) - Domain and phishing intelligence platform
+- [VirusTotal](https://www.virustotal.com/gui/home/search) - Domain intel with passive DNS and WHOIS.
 
 ## Miscellaneous
 
