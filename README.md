@@ -101,6 +101,16 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [OSINT Leaks](https://osintleak.com/) - Multi-purpose OSINT search tool.
 - [Osintracker](https://www.osintracker.com/) - Free app for tracking OSINT investigations.
 
+### Social Media Intelligence (SOCMINT)
+**Focus:** Extracting and analyzing public data from social networks.
+
+- **TweetDeck / X (Twitter) Advanced Search** — Filter by keyword, user, time, and geolocation.  
+- **Twint** — Scrape Twitter data without API access.  
+- **Sowdust’s Facebook OSINT Tools** — Access public Facebook data (pages, groups, etc.).  
+- **Instagram Graph Explorer** — Analyze public Instagram data via API.  
+- **Social Bearing** — Twitter analytics and user insights.  
+- **Social-Searcher** — Search across multiple social platforms.
+
 ## Image / Video / Media Analysis
 
 - [ExifTool](https://exiftool.org/) - **(Free)** - Metadata extractor for images and videos.  
