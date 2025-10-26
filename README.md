@@ -43,24 +43,32 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Intelligence X](https://intelx.io/) — **(Freemium)**
 - [OCCRP Aleph](https://aleph.occrp.org/) — **(Free)**
 
-### 🧾 Metadata & File Analysis
+## Metadata & File Analysis
 
-- **Metagoofil** — Extract metadata such as author names, software versions, and file paths from publicly available documents (PDF, DOCX, PPTX, etc.).  
-- **strings / binwalk** — Analyze binaries and firmware to uncover embedded data, hidden code, or configuration files.  
-- **ExifTool** — Versatile metadata extraction tool supporting a wide range of file formats including images, videos, and documents.  
-- **FOCA** — Perform large-scale metadata collection and document fingerprinting to reveal sensitive information in public files.
+- [ExifTool](https://exiftool.org/) — Versatile metadata extraction tool supporting a wide range of file formats including images, videos, and documents.  
+- [Metagoofil](https://www.kali.org/tools/metagoofil/) — Extract metadata such as author names, software versions, and file paths from publicly available documents (PDF, DOCX, PPTX, etc.).  
+- [FOCA](https://github.com/ElevenPaths/FOCA) — Perform large-scale metadata collection and document fingerprinting to reveal sensitive information in public files.
+
+## Image / Video / Media Analysis
+ 
+- [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - **(Free)** - Browser plugin to verify and analyze videos, widely used by journalists.  
+- [TinEye](https://tineye.com/) - **(Freemium)** - Reverse image search engine for identifying image origins and duplicates.  
+- [Yandex Images](https://yandex.com/images/) - **(Free)** - Reverse image search tool with strong facial and contextual matching capabilities.  
+- [Forensically](https://29a.ch/photo-forensics/) - **(Free)** - Web-based tool to detect image manipulations and view metadata.
+- [FotoForensics](https://fotoforensics.com/) - Web tool for image forensic analysis and error level analysis
+- [SauceNAO](https://saucenao.com/) - Reverse image search for artwork and media
+
+## Data Breach & Leak Search
+
+- [**Have I Been Pwned?**](https://haveibeenpwned.com/) — Check if your email or password has been leaked in known data breaches. *(Free)*  
+- [**Dehashed**](https://www.dehashed.com/) — Search compromised credentials and leaked databases. *(Paid)*  
+- [**LeakCheck**](https://leakcheck.io/) — Search across dark web data dumps and breach records. *(Freemium)*  
 
 ## Location Tracking
 
 - [Grabify](https://grabify.link/) - Track IP addresses using Grabify IP logger.
 - [IP Logger](https://iplogger.org/) - Log and track IP addresses with the IP Logger URL Shortener.
 - [IP to Geolocation](https://ip2geolocation.com/) - Get Geolocation from IP.
-
-## Marketplaces
-
-- [Search All Junk](http://searchalljunk.com/)
-- [Search Tempest](https://www.searchtempest.com/)
-- [Claz](https://claz.org/)
 
 ## Domain Information
 - [Whois](https://www.whois.com/) - Get Information regarding any Domain
@@ -72,6 +80,16 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Censys](https://search.censys.io/) - Search engine for internet-connected hosts and domains
 - [Netcraft](https://www.netcraft.com/) - Domain and phishing intelligence platform
 - [VirusTotal](https://www.virustotal.com/gui/home/search) - Domain intel with passive DNS and WHOIS.
+
+## Social Media Intelligence (SOCMINT)
+**Focus:** Extracting and analyzing public data from social networks.
+
+- **TweetDeck / X (Twitter) Advanced Search** — Filter by keyword, user, time, and geolocation.  
+- **Twint** — Scrape Twitter data without API access.  
+- **Sowdust’s Facebook OSINT Tools** — Access public Facebook data (pages, groups, etc.).  
+- **Instagram Graph Explorer** — Analyze public Instagram data via API.  
+- **Social Bearing** — Twitter analytics and user insights.  
+- **Social-Searcher** — Search across multiple social platforms.
 
 ## Miscellaneous
 
@@ -108,31 +126,11 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [OSINT Leaks](https://osintleak.com/) - Multi-purpose OSINT search tool.
 - [Osintracker](https://www.osintracker.com/) - Free app for tracking OSINT investigations.
 
-### Social Media Intelligence (SOCMINT)
-**Focus:** Extracting and analyzing public data from social networks.
+## Marketplaces
 
-- **TweetDeck / X (Twitter) Advanced Search** — Filter by keyword, user, time, and geolocation.  
-- **Twint** — Scrape Twitter data without API access.  
-- **Sowdust’s Facebook OSINT Tools** — Access public Facebook data (pages, groups, etc.).  
-- **Instagram Graph Explorer** — Analyze public Instagram data via API.  
-- **Social Bearing** — Twitter analytics and user insights.  
-- **Social-Searcher** — Search across multiple social platforms.
-
-## Image / Video / Media Analysis
-
-- [ExifTool](https://exiftool.org/) - **(Free)** - Metadata extractor for images and videos.  
-- [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - **(Free)** - Browser plugin to verify and analyze videos, widely used by journalists.  
-- [TinEye](https://tineye.com/) - **(Freemium)** - Reverse image search engine for identifying image origins and duplicates.  
-- [Yandex Images](https://yandex.com/images/) - **(Free)** - Reverse image search tool with strong facial and contextual matching capabilities.  
-- [Forensically](https://29a.ch/photo-forensics/) - **(Free)** - Web-based tool to detect image manipulations and view metadata.
-- [FotoForensics](https://fotoforensics.com/) - Web tool for image forensic analysis and error level analysis
-- [SauceNAO](https://saucenao.com/) - Reverse image search for artwork and media
-
-## Data Breach & Leak Search
-
-- [**Have I Been Pwned?**](https://haveibeenpwned.com/) — Check if your email or password has been leaked in known data breaches. *(Free)*  
-- [**Dehashed**](https://www.dehashed.com/) — Search compromised credentials and leaked databases. *(Paid)*  
-- [**LeakCheck**](https://leakcheck.io/) — Search across dark web data dumps and breach records. *(Freemium)*  
+- [Search All Junk](http://searchalljunk.com/)
+- [Search Tempest](https://www.searchtempest.com/)
+- [Claz](https://claz.org/)
 
 ## Operating Systems
 
@@ -164,7 +162,7 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - **SecurityTrails API** — DNS and IP intelligence.
 - **AbuseIPDB API** — Check IP addresses for malicious activity.
 
-### Browser Extensions for OSINT
+## Browser Extensions for OSINT
 
 - **Hunter Chrome Extension** — Discover and verify email addresses associated with visited websites.  
 - **RevEye** — Perform reverse image searches across multiple search engines in one click.  
@@ -183,14 +181,14 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) - Screenshot and screen recording tool.
 - [Noteapp](https://noteapps.info/) - Encyclopedia of note-taking apps.
 
-### Datasets & Public Records
+## Datasets & Public Records
 
 - **[Data.gov](https://www.data.gov/)** — Comprehensive collection of US government open datasets, covering topics like demographics, economics, health, and more.  
 - **[EU Open Data Portal](https://data.europa.eu/)** — Access European Union open datasets, including statistics, legislation, and environmental data.  
 - **[WikiData](https://www.wikidata.org/) / [DBpedia](https://wiki.dbpedia.org/)** — Structured knowledge bases that provide machine-readable data extracted from Wikipedia and other sources.  
 - **[Kaggle Datasets](https://www.kaggle.com/datasets)** — Public datasets for data science, cybersecurity, and OSINT research, often including large-scale real-world data.
 
-## 🧠 Learning Resources
+## Learning Resources
 - [The OSINT Framework](https://osintframework.com/) — Interactive map of categorized OSINT tools.  
 - [Bellingcat’s Online Investigation Toolkit](https://docs.google.com/document/d/1s8JY3J2C1A3dWzI0XEpXr0FmD4mXJLO7Wb8Zgkz4f38/edit) — Collection of tools used by investigative journalists.  
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) — Curated list of OSINT resources.  
