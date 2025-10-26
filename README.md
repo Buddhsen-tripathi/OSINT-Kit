@@ -157,6 +157,14 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - **SecurityTrails API** — DNS and IP intelligence.
 - **AbuseIPDB API** — Check IP addresses for malicious activity.
 
+### Browser Extensions for OSINT
+
+- **Hunter Chrome Extension** — Discover and verify email addresses associated with visited websites.  
+- **RevEye** — Perform reverse image searches across multiple search engines in one click.  
+- **SingleFile** — Save full web pages as a single HTML file for offline viewing and evidence preservation.  
+- **Wayback Machine Add-on** — Quickly check archived versions of any webpage.  
+- **Wappalyzer** — Detect and analyze technologies used on websites (CMS, frameworks, analytics tools, etc.).
+
 ## Recording & Auditing
 
 - [AnyDesk](https://anydesk.com/en) - Remote access software for personal computers and mobile devices.
