@@ -43,6 +43,13 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Intelligence X](https://intelx.io/) — **(Freemium)**
 - [OCCRP Aleph](https://aleph.occrp.org/) — **(Free)**
 
+### 🧾 Metadata & File Analysis
+
+- **Metagoofil** — Extract metadata such as author names, software versions, and file paths from publicly available documents (PDF, DOCX, PPTX, etc.).  
+- **strings / binwalk** — Analyze binaries and firmware to uncover embedded data, hidden code, or configuration files.  
+- **ExifTool** — Versatile metadata extraction tool supporting a wide range of file formats including images, videos, and documents.  
+- **FOCA** — Perform large-scale metadata collection and document fingerprinting to reveal sensitive information in public files.
+
 ## Location Tracking
 
 - [Grabify](https://grabify.link/) - Track IP addresses using Grabify IP logger.
