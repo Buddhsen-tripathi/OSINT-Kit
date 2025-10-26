@@ -183,6 +183,13 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) - Screenshot and screen recording tool.
 - [Noteapp](https://noteapps.info/) - Encyclopedia of note-taking apps.
 
+### Datasets & Public Records
+
+- **[Data.gov](https://www.data.gov/)** — Comprehensive collection of US government open datasets, covering topics like demographics, economics, health, and more.  
+- **[EU Open Data Portal](https://data.europa.eu/)** — Access European Union open datasets, including statistics, legislation, and environmental data.  
+- **[WikiData](https://www.wikidata.org/) / [DBpedia](https://wiki.dbpedia.org/)** — Structured knowledge bases that provide machine-readable data extracted from Wikipedia and other sources.  
+- **[Kaggle Datasets](https://www.kaggle.com/datasets)** — Public datasets for data science, cybersecurity, and OSINT research, often including large-scale real-world data.
+
 ## 🧠 Learning Resources
 - [The OSINT Framework](https://osintframework.com/) — Interactive map of categorized OSINT tools.  
 - [Bellingcat’s Online Investigation Toolkit](https://docs.google.com/document/d/1s8JY3J2C1A3dWzI0XEpXr0FmD4mXJLO7Wb8Zgkz4f38/edit) — Collection of tools used by investigative journalists.  
