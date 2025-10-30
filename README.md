@@ -69,6 +69,7 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 - [Grabify](https://grabify.link/) - Track IP addresses using Grabify IP logger.
 - [IP Logger](https://iplogger.org/) - Log and track IP addresses with the IP Logger URL Shortener.
 - [IP to Geolocation](https://ip2geolocation.com/) - Get Geolocation from IP.
+- [ipapi.co](https://ipapi.co/) - Get IP geolocation and other information.
 
 ## Domain Information
 - [Whois](https://www.whois.com/) - Get Information regarding any Domain
