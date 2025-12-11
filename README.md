@@ -1,10 +1,9 @@
 ## OSINT - Kit
-A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This project helps reasearchers, security, professionals, and hobbyists gather publicly available information from the web efficiently.
+A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks. This project helps reasearchers, security professionals, and hobbyists gather publicly available information from the web efficiently.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![GithubStars](https://img.shields.io/github/stars/Buddhsen-tripathi/OSINT-Kit?style=social)
 ![GithubForks](https://img.shields.io/github/forks/Buddhsen-tripathi/OSINT-Kit?style=social)
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange.svg)](https://hacktoberfest.com/)
 ![OpenIssues](https://img.shields.io/github/issues/Buddhsen-tripathi/OSINT-Kit)
 ![PullRequest](https://img.shields.io/github/issues-pr/Buddhsen-tripathi/OSINT-Kit)
 
@@ -198,4 +197,3 @@ A comprehenshive toolkit for **Open Source Intelligence (OSINT)** tasks.This pro
 ## Contributing
 
 We welcome contributions to the list of OSINT tools. If you would like to suggest a new tool or make improvements, please fork the repository, make your changes, and submit a pull request. Please ensure your contributions are in line with the purpose of the project: to provide a helpful collection of tools for OSINT enthusiasts.
-
